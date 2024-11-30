@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<packageRules>
+    <package name="cn.com.langeasy.LangEasyLexis" enable="true" activityRule="*:6" skippedActivityRule="cn.com.langeasy.LangEasyLexis.activity.FontSelectActivity"/>
+    <package name="com.tencent.androidqqmail" enable="true" activityRule="*:6:framelayout-10" skippedActivityRule="com.tencent.qqmail.activity.compose.ComposeMailActivity"/>
+    <package name="com.outfit7.talkingtomgoldrun.mi" enable="true" activityRule="*:6" skippedActivityRule=""/>
+    <package name="com.gh.gamecenter" enable="true" activityRule="*:6" skippedActivityRule="com.gh.gamecenter.SplashScreenActivity"/>
+</packageRules>
