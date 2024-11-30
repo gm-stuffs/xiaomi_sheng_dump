@@ -1,0 +1,14 @@
+# missi_pad_global-user 14 UKQ1.231003.002 V816.0.5.0.UNXMIXM release-keys
+- manufacturer: xiaomi
+- platform: kalama
+- codename: sheng
+- flavor: missi_pad_global-user
+- release: 14
+- id: UKQ1.231003.002
+- incremental: V816.0.5.0.UNXMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/sheng_global/sheng:13/TKQ1.221114.001/V816.0.5.0.UNXMIXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi_pad_global-user-14-UKQ1.231003.002-V816.0.5.0.UNXMIXM-release-keys
+- repo: xiaomi_sheng_dump
